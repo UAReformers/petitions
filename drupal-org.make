@@ -142,10 +142,9 @@ projects[usfedgov_google_analytics][version] = 1.0-rc1
 ; ==============================================================================
 
 projects[fortyfour][download][type] = git
-projects[fortyfour][download][url] = http://git.drupal.org/project/fortyfour.git
+projects[fortyfour][download][url] = https://github.com/UAReformers/petitions_theme.git
 projects[fortyfour][type] = theme
 projects[fortyfour][subdir] = ""
-projects[fortyfour][revision] = 027674985
 
 projects[zen][type] = theme
 projects[zen][subdir] = ""
